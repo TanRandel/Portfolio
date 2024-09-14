@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Black+Han+Sans&family=Montserrat:wght@400;500;600&family=Outfit:wght@300;400;600&family=Sora:wght@700&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  height: 100vh;
+  font-family: 'Black Han Sans', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Outfit', sans-serif;
+  font-family: 'Sora', sans-serif;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  color: #000;
+}
