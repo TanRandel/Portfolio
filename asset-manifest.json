@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b61c4c8.css",
-    "main.js": "/Portfolio/static/js/main.1ba81dce.js",
+    "main.js": "/Portfolio/static/js/main.db95a0c5.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/HairDay.png": "/Portfolio/static/media/HairDay.14a90c0377d52a3ab7cd.png",
     "static/media/AirBnb.png": "/Portfolio/static/media/AirBnb.173d95dd8c6d34c00a05.png",
     "static/media/CineFlix.png": "/Portfolio/static/media/CineFlix.27743309e23a370f9d92.png",
     "static/media/Mamamo.png": "/Portfolio/static/media/Mamamo.0e540f94f5d0d56d8d5d.png",
     "static/media/Honsel.png": "/Portfolio/static/media/Honsel.661fa697c8d34c33f665.png",
+    "static/media/Weather.png": "/Portfolio/static/media/Weather.02c6c1ad7a967b4405de.png",
     "static/media/LaravelApi.png": "/Portfolio/static/media/LaravelApi.d7d0aafb7e0e079a37cc.png",
     "static/media/parfum.png": "/Portfolio/static/media/parfum.5c8a8591637358d6d4af.png",
     "static/media/E-Commerce.png": "/Portfolio/static/media/E-Commerce.e318fd54133d4d3f90b2.png",
@@ -22,11 +23,11 @@
     "static/media/Todo.png": "/Portfolio/static/media/Todo.3cdcd3cc65170e64844e.png",
     "index.html": "/Portfolio/index.html",
     "main.1b61c4c8.css.map": "/Portfolio/static/css/main.1b61c4c8.css.map",
-    "main.1ba81dce.js.map": "/Portfolio/static/js/main.1ba81dce.js.map",
+    "main.db95a0c5.js.map": "/Portfolio/static/js/main.db95a0c5.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b61c4c8.css",
-    "static/js/main.1ba81dce.js"
+    "static/js/main.db95a0c5.js"
   ]
 }
