@@ -17,6 +17,7 @@ import Portfolio from '../Images/Portfolio.png';
 import Mamamo from '../Images/Mamamo.png';
 import Api from '../Images/LaravelApi.png';
 import ProjectManagement from '../Images/ProjectManagement.png';
+import Todo from '../Images/Todo.png'
 
 // Define a container for the grid
 const GridContainer = styled(motion.div)`
@@ -129,6 +130,12 @@ const Works = () => {
       image: Cineflix,
       techStack: 'ReactJS, API , CSS , HTML',
       link: 'https://tanrandel.github.io/Movie-React/'
+    },
+    {
+      id: 6,
+      image: Todo,
+      techStack: 'VueJS, Vue-Icons, CSS(Sass), HTML',
+      link: 'https://tanrandel.github.io/Vue-Todos/'
     },
     {
       id: 6,
