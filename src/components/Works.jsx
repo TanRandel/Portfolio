@@ -20,7 +20,7 @@ import ProjectManagement from '../Images/ProjectManagement.png';
 import Todo from '../Images/Todo.png'
 import Weather from '../Images/Weather.png'
 import node from '../Images/node.png'
-
+import thesis from '../Images/thesis.png'
 // Define a container for the grid
 const GridContainer = styled(motion.div)`
   display: grid;
@@ -216,6 +216,11 @@ const Works = () => {
       image: Mamamo,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/MyFirstWebsite-HTML-CSS-/'
+    },
+    {
+      id: 20,
+      image: thesis,
+      techStack: 'C++ (Capstone), Arduino Uno, Arduino R3 , Radio Module , Arduino IDE',
     },
     // More projects...
   ];
