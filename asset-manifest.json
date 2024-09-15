@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b61c4c8.css",
-    "main.js": "/Portfolio/static/js/main.db95a0c5.js",
+    "main.js": "/Portfolio/static/js/main.5337400d.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/HairDay.png": "/Portfolio/static/media/HairDay.14a90c0377d52a3ab7cd.png",
     "static/media/AirBnb.png": "/Portfolio/static/media/AirBnb.173d95dd8c6d34c00a05.png",
@@ -18,16 +18,17 @@
     "static/media/RockPaperScissors.png": "/Portfolio/static/media/RockPaperScissors.3e6a0cb88fe8f11c464f.png",
     "static/media/Portfolio.png": "/Portfolio/static/media/Portfolio.e0258791e96d0f8db1bb.png",
     "static/media/TicTacToe.png": "/Portfolio/static/media/TicTacToe.a056b6dd219f238fb464.png",
+    "static/media/node.png": "/Portfolio/static/media/node.4a6f2756886306e4a388.png",
     "static/media/ProjectManagement.png": "/Portfolio/static/media/ProjectManagement.83fe37bbf1b6600fdd7b.png",
     "static/media/qrcode.jpeg": "/Portfolio/static/media/qrcode.03606cbf1d7be16fa9f4.jpeg",
     "static/media/Todo.png": "/Portfolio/static/media/Todo.3cdcd3cc65170e64844e.png",
     "index.html": "/Portfolio/index.html",
     "main.1b61c4c8.css.map": "/Portfolio/static/css/main.1b61c4c8.css.map",
-    "main.db95a0c5.js.map": "/Portfolio/static/js/main.db95a0c5.js.map",
+    "main.5337400d.js.map": "/Portfolio/static/js/main.5337400d.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b61c4c8.css",
-    "static/js/main.db95a0c5.js"
+    "static/js/main.5337400d.js"
   ]
 }
