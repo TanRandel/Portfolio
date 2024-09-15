@@ -19,6 +19,7 @@ import Api from '../Images/LaravelApi.png';
 import ProjectManagement from '../Images/ProjectManagement.png';
 import Todo from '../Images/Todo.png'
 import Weather from '../Images/Weather.png'
+import node from '../Images/node.png'
 
 // Define a container for the grid
 const GridContainer = styled(motion.div)`
@@ -122,90 +123,96 @@ const Works = () => {
     },
     {
       id: 4,
+      image: node,
+      techStack: 'NodeJS , ExpressJs , MongoDb , PostMan, HTML',
+      link: 'https://drive.google.com/file/d/13GkjK5prjTHqCTqGq1jsr9tojDbVTmu2/view?usp=sharing'
+    },
+    {
+      id: 5,
       image: ECommerce,
       techStack: 'ReactJS, React-router-dom , CSS , HTML',
       link: 'https://tanrandel.github.io/E-Commerce/'
     },
     {
-      id: 5,
+      id: 6,
       image: Cineflix,
       techStack: 'ReactJS, API , CSS , HTML',
       link: 'https://tanrandel.github.io/Movie-React/'
     },
     {
-      id: 6,
+      id: 7,
       image: Todo,
       techStack: 'VueJS, Vue-Icons, CSS(Sass), HTML',
       link: 'https://tanrandel.github.io/Vue-Todos/'
     },
     {
-      id: 7,
+      id: 8,
       image: Weather,
       techStack: 'VueJS, WeatherAPI, CSS, HTML',
       link: 'https://tanrandel.github.io/weather-app/'
     },
     {
-      id: 8,
+      id: 9,
       image: Honsel,
       techStack: 'JavaScript, CSS , HTML',
       link: 'https://tanrandel.github.io/HonselMie/'
     },
     {
-      id: 9,
+      id: 10,
       image: AirBnb,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/AirBnB-React/'
     },
     {
-      id: 10,
+      id: 11,
       image: HairDay,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/Client-Mockup-HTML-CSS/'
     },
     {
-      id: 11,
+      id: 12,
       image: Crypto,
       techStack: 'CSS, HTML',
       link: 'https://tanrandel.github.io/NFT-Preview-HTML-CSS-/'
     },
     {
-      id: 12,
+      id: 13,
       image: Rating,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ResulTSummary-HTML.CSS-/'
     },
     {
-      id: 13,
+      id: 14,
       image: Parfum,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ProductPreview-HTML-CSS-/'
     },
     {
-      id: 14,
+      id: 15,
       image: Qrcode,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/QrCodeSample-HTML-CSS-/'
     },
     {
-      id: 15,
+      id: 16,
       image: RPS,
       techStack: ' JavaScript , CSS, HTML',
       link: 'https://tanrandel.github.io/ROCKPAPERSCISSOR-JAVASCRIPT-/'
     },
     {
-      id: 16,
+      id: 17,
       image: Snake,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/SnakeGame-JavaScript-/'
     },
     {
-      id: 17,
+      id: 18,
       image: Tictactoe,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/Tictactoe-JAVASCRIPT-/'
     },
     {
-      id: 18,
+      id: 19,
       image: Mamamo,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/MyFirstWebsite-HTML-CSS-/'
