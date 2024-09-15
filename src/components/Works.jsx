@@ -138,67 +138,67 @@ const Works = () => {
       link: 'https://tanrandel.github.io/Vue-Todos/'
     },
     {
-      id: 6,
+      id: 7,
       image: Honsel,
       techStack: 'JavaScript, CSS , HTML',
       link: 'https://tanrandel.github.io/HonselMie/'
     },
     {
-      id: 7,
+      id: 8,
       image: AirBnb,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/AirBnB-React/'
     },
     {
-      id: 8,
+      id: 9,
       image: HairDay,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/Client-Mockup-HTML-CSS/'
     },
     {
-      id: 9,
+      id: 10,
       image: Crypto,
       techStack: 'CSS, HTML',
       link: 'https://tanrandel.github.io/NFT-Preview-HTML-CSS-/'
     },
     {
-      id: 10,
+      id: 11,
       image: Rating,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ResulTSummary-HTML.CSS-/'
     },
     {
-      id: 11,
+      id: 12,
       image: Parfum,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ProductPreview-HTML-CSS-/'
     },
     {
-      id: 12,
+      id: 13,
       image: Qrcode,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/QrCodeSample-HTML-CSS-/'
     },
     {
-      id: 13,
+      id: 14,
       image: RPS,
       techStack: ' JavaScript , CSS, HTML',
       link: 'https://tanrandel.github.io/ROCKPAPERSCISSOR-JAVASCRIPT-/'
     },
     {
-      id: 14,
+      id: 15,
       image: Snake,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/SnakeGame-JavaScript-/'
     },
     {
-      id: 15,
+      id: 16,
       image: Tictactoe,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/Tictactoe-JAVASCRIPT-/'
     },
     {
-      id: 16,
+      id: 17,
       image: Mamamo,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/MyFirstWebsite-HTML-CSS-/'
