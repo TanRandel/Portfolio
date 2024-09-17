@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.1b61c4c8.css",
-    "main.js": "/Portfolio/static/js/main.cd7cef87.js",
+    "main.js": "/Portfolio/static/js/main.1b8a42ee.js",
     "static/js/453.1407b060.chunk.js": "/Portfolio/static/js/453.1407b060.chunk.js",
     "static/media/thesis.png": "/Portfolio/static/media/thesis.d5f60d327071ff48b8fa.png",
     "static/media/HairDay.png": "/Portfolio/static/media/HairDay.14a90c0377d52a3ab7cd.png",
     "static/media/AirBnb.png": "/Portfolio/static/media/AirBnb.173d95dd8c6d34c00a05.png",
     "static/media/CineFlix.png": "/Portfolio/static/media/CineFlix.27743309e23a370f9d92.png",
+    "static/media/WordPressOne.png": "/Portfolio/static/media/WordPressOne.5fccdc36e4f5391fe013.png",
     "static/media/Mamamo.png": "/Portfolio/static/media/Mamamo.0e540f94f5d0d56d8d5d.png",
     "static/media/Honsel.png": "/Portfolio/static/media/Honsel.661fa697c8d34c33f665.png",
     "static/media/Weather.png": "/Portfolio/static/media/Weather.02c6c1ad7a967b4405de.png",
@@ -25,11 +26,11 @@
     "static/media/Todo.png": "/Portfolio/static/media/Todo.3cdcd3cc65170e64844e.png",
     "index.html": "/Portfolio/index.html",
     "main.1b61c4c8.css.map": "/Portfolio/static/css/main.1b61c4c8.css.map",
-    "main.cd7cef87.js.map": "/Portfolio/static/js/main.cd7cef87.js.map",
+    "main.1b8a42ee.js.map": "/Portfolio/static/js/main.1b8a42ee.js.map",
     "453.1407b060.chunk.js.map": "/Portfolio/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1b61c4c8.css",
-    "static/js/main.cd7cef87.js"
+    "static/js/main.1b8a42ee.js"
   ]
 }
