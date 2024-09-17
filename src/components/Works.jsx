@@ -21,6 +21,7 @@ import Todo from '../Images/Todo.png'
 import Weather from '../Images/Weather.png'
 import node from '../Images/node.png'
 import thesis from '../Images/thesis.png'
+import wordpressone from '../Images/WordPressOne.png'
 // Define a container for the grid
 const GridContainer = styled(motion.div)`
   display: grid;
@@ -153,72 +154,78 @@ const Works = () => {
     },
     {
       id: 9,
+      image: wordpressone,
+      techStack: 'WordPress CMS',
+      link: 'https://randel92.wordpress.com/'
+    },
+    {
+      id: 10,
       image: Honsel,
       techStack: 'JavaScript, CSS , HTML',
       link: 'https://tanrandel.github.io/HonselMie/'
     },
     {
-      id: 10,
+      id: 11,
       image: AirBnb,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/AirBnB-React/'
     },
     {
-      id: 11,
+      id: 12,
       image: HairDay,
       techStack: 'ReactJS, CSS, HTML',
       link: 'https://tanrandel.github.io/Client-Mockup-HTML-CSS/'
     },
     {
-      id: 12,
+      id: 13,
       image: Crypto,
       techStack: 'CSS, HTML',
       link: 'https://tanrandel.github.io/NFT-Preview-HTML-CSS-/'
     },
     {
-      id: 13,
+      id: 14,
       image: Rating,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ResulTSummary-HTML.CSS-/'
     },
     {
-      id: 14,
+      id: 15,
       image: Parfum,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/ProductPreview-HTML-CSS-/'
     },
     {
-      id: 15,
+      id: 16,
       image: Qrcode,
       techStack: ' CSS, HTML',
       link: 'https://tanrandel.github.io/QrCodeSample-HTML-CSS-/'
     },
     {
-      id: 16,
+      id: 17,
       image: RPS,
       techStack: ' JavaScript , CSS, HTML',
       link: 'https://tanrandel.github.io/ROCKPAPERSCISSOR-JAVASCRIPT-/'
     },
     {
-      id: 17,
+      id: 18,
       image: Snake,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/SnakeGame-JavaScript-/'
     },
     {
-      id: 18,
+      id: 19,
       image: Tictactoe,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/Tictactoe-JAVASCRIPT-/'
     },
     {
-      id: 19,
+      id: 20,
       image: Mamamo,
       techStack: ' JavaScript, CSS, HTML',
       link: 'https://tanrandel.github.io/MyFirstWebsite-HTML-CSS-/'
     },
     {
-      id: 20,
+      id: 21,
       image: thesis,
       techStack: 'C++ (Capstone), Arduino Uno, Arduino R3 , Radio Module , Arduino IDE',
     },
